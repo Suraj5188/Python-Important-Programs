@@ -1,0 +1,13 @@
+LEGB ---> Stands for Local,Enclosed,Global and Built in scope in python
+
+1. Local : 
+It is local variable declare inside the function and it is accessible in the function.
+
+2. Enclosed : 
+Enclosing means that the variable or function in the function
+
+3. Global : 
+Global variable is declared outside the function or it can be accessible in program
+
+4. Built-in scope : 
+Built in scope that are built in function in python like range,print,len etc..
